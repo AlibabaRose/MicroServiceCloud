@@ -1,3 +1,6 @@
 public static void mian(){
 	System.out.println("hello world");
 }
+public void doDome(){
+	,,,,,,,,,,,,
+}
